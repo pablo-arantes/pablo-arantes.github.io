@@ -1,0 +1,9 @@
+---
+layout: default
+img: project4.png
+category: Projects
+title: "eRMSF"
+description: A Python Package for Ensemble RMSF Analysis of Molecular Dynamics and Structural Ensembles 
+---
+
+* __eRMSF__  a fast and user-friendly Python package built with MDAKit from MD-Analysis, designed to perform ensemble-based Root Mean Square Fluctuation (RMSF) analyses. Users can easily customize atom, residue, or region selections, tailoring analyses to specific research questions. This approach delivers high-resolution insights into localized motions, complements global stability assessments, and reveals dynamic regions often overlooked by single-method analyses. More information here: [eRMSF](https://github.com/pablo-arantes/ermsfkit).
