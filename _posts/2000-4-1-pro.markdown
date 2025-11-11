@@ -1,6 +1,6 @@
 ---
 layout: default
-img: project4.png
+img: project4.jpg
 category: Projects
 title: "eRMSF"
 description: A Python Package for Ensemble RMSF Analysis of Molecular Dynamics and Structural Ensembles 
